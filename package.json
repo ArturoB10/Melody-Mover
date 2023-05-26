@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "Melanie, Arturo, Terrell, Charlene",
-  "license": "",
+  "license": "MIT",
   "dependencies": {
     "connect-session-sequelize": "7.1.7",
     "dotenv": "16.0.3",
